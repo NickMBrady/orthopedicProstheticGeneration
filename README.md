@@ -35,7 +35,7 @@ With my learnings from the original prototype, the new thermal molding workflow,
 
 Designed for limb-length discrepancy and asymmetry patients, the moldable insert conforms to support and cushion. A hyper-moldable structure of rigid PLA plastic comprises the majority of the height. A thin layer of flexible TPU is printed on top for elastic cushioning. 
 
-### [Images](/assets/orthotic/)    |   [Documentation](/orthoticGenerationDocumentation.md) | [Project Files](https://www.thingiverse.com/thing:6156919)
+### [Images](/assets/orthotic/)    |   [Documentation](/insertDocumentation.md) | [Project Files](https://www.thingiverse.com/thing:6156919)
 
 
 <br>
@@ -48,7 +48,7 @@ Targeted as a temporary or low-cost alternative, the prosthetic socket can be fo
 
 Traditional polypropelene workflows require involved molding and casting, a costly and time-consuming process. This workflow allows for a socket of approximate fit to be precisely contoured to the patient's limb in minutes and at a fraction of the cost.
 
-### [Images](/assets/prosthetic/)    |   [Documentation](/prostheticGenerationDocumentation.md) 
+### [Images](/assets/prosthetic/)    |   [Documentation](/prostheticDocumentation.md) 
 
 
 
