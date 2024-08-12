@@ -21,10 +21,12 @@ With my learnings from the original prototype, the new thermal molding workflow,
 ### [See All](/updates.md)
 
 
-
+<br><br>
 
 
 # Projects
+
+<br>
 
 ## Orthotic Insert
 
@@ -36,7 +38,7 @@ Designed for limb-length discrepancy and asymmetry patients, the moldable insert
 ### [Images](/assets/orthotic/)    |   [Documentation](/insertDocumentation.md) | [Project Files](https://www.thingiverse.com/thing:6156919)
 
 
-
+<br>
 
 ## Prosthetic Socket
 
@@ -51,7 +53,7 @@ Traditional polypropelene workflows require involved molding and casting, a cost
 
 
 
-
+<br>
 
 ## Orthotic Insert and Prosthetic Generative Algorithm
 
@@ -70,7 +72,7 @@ A patient first traces their existing shoe insole on standard, letter paper and 
 ### [Images](/assets/generation/) | [Documentation](/orthoticGenerationDocumentation.md)
 
 
-
+<br>
 
 
 ### Prosthetic Generation
