@@ -2,7 +2,7 @@
 
 A custom prosthetic socket can be created using two annotated reference photos of the target appendage. In order for scale to be inferred from the images, four bright green tracking markers must be longitudinally and centrally placed on the appendage, 90 degrees apart (to satisfy the dorsal (top) and radial (side) views), according to the following measurements: 5 cm between them, and 2 cm from the limb termination (see below). If marked correctly, two markers will be visible from the top and two will be visible from the side.
 
-![marking guide](/assets/orthotic%20generation/Screenshot%202024-08-12%20152954.png)
+![marking guide](/assets/generation/Screenshot%202024-08-12%20152954.png)
 
 *Take two images of the appendage — a top view and a side view, as shown above — against a white sheet of paper. Then, run the following script, correcting the file path for both input images.*
 

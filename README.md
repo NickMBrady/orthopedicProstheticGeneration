@@ -69,7 +69,7 @@ The orthotic and prosthetic generative workflows operate in theree stages: image
 
 A patient first traces their existing shoe insole on standard, letter paper and takes a picture. The script corrects for distortion and applies morphological operations to vertically align and segment the outline. The outline is measured using scale inferred from the paper and dimensions are passed to Blender, where an insole of specified height is constructed.
 
-### [Images](/assets/generation/) | [Documentation](/orthoticGenerationDocumentation.md)
+### [Images](/assets/generation/) | [Documentation](/insertDocumentation.md)
 
 
 <br>
@@ -79,7 +79,7 @@ A patient first traces their existing shoe insole on standard, letter paper and 
 
 A patient first longitudinally places green markers of known distance on the appendage: two dorsally, two radially. A dorsal and radial picture is taken, and the two images undergo initial processing separately. The algorithm identifies the markers, then distortion corrects, scales, and vertically aligns the image. Multiple morphological operations are applied to segment and outline the apendage, per axis. The outline is measured using scale inferred from the markers, and dorsal and radial dimensions are passed to Blender at several cross sections. With an additional length criteria specified, a socket of specified curvature and size is constructed.
 
-### [Images](/assets/generation/)  |   [Documentation](/prostheticGenerationDocumentation.md)
+### [Images](/assets/generation/)  |   [Documentation](/prostheticDocumentation.md)
 
 
 
