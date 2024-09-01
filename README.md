@@ -1,4 +1,4 @@
-#  Moldable Orthopedic Prosthetic Generation
+#  Moldable Orthopedic Prosthetic Algorithmic Generation
 Leveraging a novel thermal workflow, this repo outlines my work on algorithmically generated moldable orthotic and prosthetic solutions that deliver superior functionality and comfort.
 
 Employing the gyroid minimal surface as the principle structural element, the resulting devices are highly moldable, agnostic of axis. Due to the accessible thermal characteristics of popular thermoplastics, healthcare providers and patients are able to form a custom shape that hardens in minutes and can be remolded following subsequent heating. Coupled with elastic plastics such as TPU, cushioned areas complement the rigid molded structure for comfort and control.
